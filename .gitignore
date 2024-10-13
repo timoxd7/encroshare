@@ -1,7 +1,13 @@
 .idea
+*.iws
+*.iml
+*.ipr
+
 .env
+.vscode
+.venv
 node_modules
 dist
-.vscode
 __pycache__
-.venv
+
+!**/.gitkeep
