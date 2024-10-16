@@ -1,6 +1,6 @@
-[submodule "secure-journal-backend"]
-	path = secure-journal-backend
+[submodule "secure_journal_backend"]
+	path = secure_journal_backend
 	url = ../secure-journal-backend.git
-[submodule "secure-journal-frontend"]
-	path = secure-journal-frontend
+[submodule "secure_journal_frontend"]
+	path = secure_journal_frontend
 	url = ../secure-journal-frontend.git
