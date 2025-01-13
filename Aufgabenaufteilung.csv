@@ -9,13 +9,14 @@ Rücksprache Beratung Tilo Müller;Johannes Strecker, Sebastian Peschke, Timo Me
 Planung Frontend;Timo Meyer
 Implementierung Frontend (insgesamt);Timo Meyer
 Projektmanagement Frontend;Timo Meyer, Sebastian Peschke
-Logo;Johannes Strecker
 Projektmanagement Backend;Sebastian Peschke
-Backend Implementierung Data Endpunkt;Sebastian Peschke
-Backend Implementierung Git CI;Johannes Strecker
-Backend Implementierung Tests;Johannes Strecker
-Backend Implementierung Authentifizierung Endpunkt;Johannes Strecker
-Backend Implementierung User stats Endpunkt;Johannes Strecker
-Backend Implementierung Datenbank;Johannes Strecker
-Backend Implementierung Architektur;Johannes Strecker
+Logo;Johannes Strecker
+Backend - Implementierung Data Endpunkt;Sebastian Peschke
+Backend - Implementierung Git CI;Johannes Strecker
+Backend - Implementierung Tests;Johannes Strecker
+Backend - Implementierung Authentifizierung Endpunkt;Johannes Strecker
+Backend - Implementierung User stats Endpunkt;Johannes Strecker
+Backend - Implementierung Datenbank;Johannes Strecker
+Backend - Implementierung Architektur;Johannes Strecker
 Projektübergreifendes Deployment mit Kubernetes;Sebastian Peschke
+Projektmanagement Kommunikation mit Discord + Webhooks für automatische updates; Sebastian Peschke
