@@ -1,9 +1,9 @@
 [submodule "secure_journal_backend"]
-	path = secure_journal_backend
-	url = ../secure_journal_backend.git
+	path = encroshare_backend
+	url = ../encroshare_backend.git
 [submodule "secure_journal_frontend"]
-	path = secure_journal_frontend
-	url = ../secure_journal_frontend.git
+	path = encroshare_frontend
+	url = ../encroshare_frontend.git
 [submodule "encroshare.wiki"]
 	path = encroshare.wiki
 	url = ../encroshare.wiki.git
