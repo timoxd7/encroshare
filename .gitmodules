@@ -4,6 +4,6 @@
 [submodule "secure_journal_frontend"]
 	path = secure_journal_frontend
 	url = ../secure_journal_frontend.git
-[submodule "secure_journal.wiki"]
-	path = secure_journal.wiki
-	url = ../secure_journal.wiki.git
+[submodule "encroshare.wiki"]
+	path = encroshare.wiki
+	url = ../encroshare.wiki.git
