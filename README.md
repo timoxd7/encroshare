@@ -2,8 +2,8 @@
 
 In diesem Repo sind EncroShare Frontend, Backend und Wiki miteinander vereinigt.
 
-- [Frontend](secure_journal_frontend)
-- [Backend](secure_journal_backend)
+- [Frontend](encroshare_frontend)
+- [Backend](encroshare_backend)
 - [Wiki](encroshare.wiki) (Shortcut für lokale Entwicklung, nutze "Wiki" im GitHub Interface)
 
 ## Info
