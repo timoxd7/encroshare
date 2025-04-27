@@ -2,9 +2,9 @@
 
 In diesem Repo sind EncroShare Frontend, Backend und Wiki miteinander vereinigt.
 
-- [Frontend](encroshare_frontend)
-- [Backend](encroshare_backend)
-- [Wiki](encroshare.wiki) (Shortcut für lokale Entwicklung, nutze "Wiki" im GitHub Interface)
+- [Frontend](https://github.com/timoxd7/encroshare_frontend)
+- [Backend](https://github.com/timoxd7/encroshare_backend)
+- [Wiki](https://github.com/timoxd7/encroshare.wiki) (Shortcut für lokale Entwicklung, nutze "Wiki" im GitHub Interface)
 
 ## Info
 
